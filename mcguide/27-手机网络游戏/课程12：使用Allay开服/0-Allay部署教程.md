@@ -1,7 +1,7 @@
 ---
 front:
 hard: 入门
-time: 20分钟
+time: 15分钟
 ---
 
 # Allay部署教程
